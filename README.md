@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajitvecc
+- 👋 Hi, I’m Ajit Kumar (PhD Student)
 - 👀 I’m interested in high energy heavy ion physics and detector intsurmentation. Also, c++ coding and data analysis.
 - 🌱 I’m currently learning Python
 - 📫 How to reach me "ajit.310465@gmail.com"
